@@ -1,10 +1,11 @@
-## Meu Projeto Incrível
+# <span style="color:#4CAF50;">Formulário de Cadastro</span>
 
-### O que é?
-Este é um projeto incrível que faz coisas incríveis!
+Este é um projeto simples de um formulário de cadastro desenvolvido utilizando HTML e CSS. O formulário coleta o email e a senha do usuário. Esse projeto foi um exercício do Curso Técnico de Desenvolvimento de Software.
 
-### Como usar
-1. **Clone o repositório:**
-   ```bash
-   git clone [URL inválido removido]
+## Estrutura do Projeto
+
+O projeto contém os seguintes arquivos:
+
+- `index.html`: Contém a estrutura básica do formulário de cadastro.
+- `style.css`: Contém os estilos aplicados ao formulário.
 
