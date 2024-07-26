@@ -8,4 +8,4 @@ O projeto contém os seguintes arquivos:
 
 - `index.html`: Contém a estrutura básica do formulário de cadastro.
 - `style.css`: Contém os estilos aplicados ao formulário.
-
+<img src = ""
